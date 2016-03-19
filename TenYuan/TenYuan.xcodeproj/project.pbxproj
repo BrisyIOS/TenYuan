@@ -239,7 +239,6 @@
 		79CF629A1BF637AA00069820 /* TenModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TenModel.m; sourceTree = "<group>"; };
 		79DD114B1C034947005A6A20 /* ShowController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ShowController.h; sourceTree = "<group>"; };
 		79DD114C1C034947005A6A20 /* ShowController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ShowController.m; sourceTree = "<group>"; };
-		8BF30D331C9B9411000A16CD /* TenYuan.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = TenYuan.entitlements; sourceTree = "<group>"; };
 		AB3220CB1C1AF37C00CE902C /* WorthAroundController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WorthAroundController.h; sourceTree = "<group>"; };
 		AB3220CC1C1AF37C00CE902C /* WorthAroundController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WorthAroundController.m; sourceTree = "<group>"; };
 		ABF382EE1C1BEBAA000351A7 /* APLAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = APLAppDelegate.h; sourceTree = "<group>"; };
@@ -398,7 +397,6 @@
 		798778851BEF7756004971FD /* TenYuan */ = {
 			isa = PBXGroup;
 			children = (
-				8BF30D331C9B9411000A16CD /* TenYuan.entitlements */,
 				798B10E91C0467F900AFE2AC /* SearchResult */,
 				79DD11471C0348D6005A6A20 /* Search */,
 				798778AC1BEF778C004971FD /* Home */,
